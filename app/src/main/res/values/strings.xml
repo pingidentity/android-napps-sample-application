@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NAPPS Demo</string>
+    <string name="app_title">NAPPS Sample Application</string>
+    <string name="app_redirect_scheme">com.pingidentity.developer.napps</string>
+
+    <string name="button_launch">Sign In to Application</string>
+    <string name="button_refresh">Refresh Access Token</string>
+    <string name="button_userinfo">Query UserInfo</string>
+
+    <string name="oauth2_access_token_title">OAuth 2.0 Access Token</string>
+    <string name="oauth2_access_token">{ NO TOKEN PRESENT }</string>
+    <string name="oauth2_refresh_token_title">OAuth 2.0 Refresh Token</string>
+    <string name="oauth2_refresh_token">{ NO TOKEN PRESENT }</string>
+    <string name="oidc_subject_title">OpenID Connect Subject</string>
+    <string name="oidc_subject">{ NO TOKEN PRESENT }</string>
+    <string name="last_action_title">Last Activity:</string>
+</resources>
