@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-napps-sample-application.iml" filepath="$PROJECT_DIR$/android-napps-sample-application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pingidentity-android-napps-sample-application.iml" filepath="$PROJECT_DIR$/.idea/modules/pingidentity-android-napps-sample-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pingidentity-android-napps-sample-application.app.unitTest.iml" />
     </modules>
   </component>
 </project>
